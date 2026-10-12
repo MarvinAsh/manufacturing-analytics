@@ -104,5 +104,5 @@ Manufacturing_Simulate_Data_Analysis
 └─ README.md            项目总体介绍
 ```
 
-Power BI文件位于：`Manufacturing_Simulate_Data_Analysis\04_powerbi\产品制造经营分析.pbix"`。
+Power BI文件位于：`04_powerbi\产品制造经营分析.pbix`。
 
