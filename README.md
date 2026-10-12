@@ -1,0 +1,2 @@
+# manufacturing-analytics
+模拟制造业ERP系统数据ETL并最终呈现BI报表
