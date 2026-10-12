@@ -1,0 +1,9 @@
+﻿SELECT
+    [name],
+    [expression],
+    [description],
+    [displayfolder],
+    [formatstring],
+    [ishidden]
+FROM $SYSTEM.TMSCHEMA_MEASURES
+ORDER BY [name];

@@ -1,0 +1,5 @@
+﻿warehouse_id,warehouse_name,warehouse_type,region,province,city
+WH001,华东中心仓,综合仓,华东,江苏省,苏州市
+WH002,华北区域仓,区域备件仓,华北,天津市,天津市
+WH003,华南区域仓,区域备件仓,华南,广东省,广州市
+WH004,西南区域仓,区域备件仓,西南,四川省,成都市

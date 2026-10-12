@@ -1,0 +1,9 @@
+﻿carrier_id,carrier_name,carrier_type,service_level,region_scope
+CAR001,东方工业物流,综合物流,A,全国
+CAR002,华北重载运输,重型零担,A,华北及东北
+CAR003,南方工业专线,专线运输,B,华南及西南
+CAR004,中联零担物流,重型零担,B,全国
+CAR005,远达装备运输,专线运输,B,全国
+CAR006,城际工业快运,工业快运,C,区域线路
+CAR007,经纬供应链,综合物流,A,全国
+CAR008,惠达公路运输,重型零担,C,全国
